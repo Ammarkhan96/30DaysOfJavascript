@@ -28,3 +28,10 @@
 // }
 
 // console.log(x);
+
+
+// let x = {a: 1, b: 2}
+
+// let y = {b: 3, c: 4}
+// Object.setPrototypeOf(x, y)
+// console.log(x.b);
